@@ -15,9 +15,9 @@ package com.lifengdi.designpatterns.demo.singleton;
  * @author 李锋镝
  * @date Create at 11:36 2019/12/12
  */
-public enum SingletonEnum {
+public enum EnumSingleton {
     INSTANCE;
-    public SingletonEnum getInstance(){
+    public EnumSingleton getInstance(){
         return INSTANCE;
     }
 }
