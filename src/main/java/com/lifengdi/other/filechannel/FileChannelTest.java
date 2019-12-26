@@ -1,4 +1,4 @@
-package com.lifengdi.designpatterns.demo.filechannel;
+package com.lifengdi.other.filechannel;
 
 import org.springframework.util.StopWatch;
 

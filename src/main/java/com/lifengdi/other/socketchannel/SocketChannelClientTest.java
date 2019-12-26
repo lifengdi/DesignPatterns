@@ -1,4 +1,4 @@
-package com.lifengdi.designpatterns.demo.socketchannel;
+package com.lifengdi.other.socketchannel;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

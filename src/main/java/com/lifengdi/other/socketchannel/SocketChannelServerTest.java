@@ -1,4 +1,4 @@
-package com.lifengdi.designpatterns.demo.socketchannel;
+package com.lifengdi.other.socketchannel;
 
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;

@@ -1,4 +1,4 @@
-package com.lifengdi.designpatterns.demo.sync;
+package com.lifengdi.other.sync;
 
 /**
  * @author 李锋镝

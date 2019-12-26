@@ -1,4 +1,4 @@
-package com.lifengdi.designpatterns.demo.sync;
+package com.lifengdi.other.sync;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
